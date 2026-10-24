@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/streamixview",
+  "packageVersion": "0.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/streamixview",
+  "usageRepository": "https://github.com/x12i-sdk/streamixview",
+  "sourceRepository": "https://github.com/x12i/streamix",
+  "sourceCommit": "b4ab8abd8ac781d2b934a7a864276c5c5509fa6d",
+  "sourcePackageDirectory": "packages/view",
+  "example": {
+    "title": "Render a synthetic activity list without a service connection",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:53:49.888478+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "b0878cebfe810162f43940748c5ba323307f6198fe3f7b1dff34d4940297479c",
+    "manifestSha256": "5ce2e26046febd25614b2d302f2d0ea6dabc46fc5ea62c536973d717e7989992"
+  },
+  "validationFiles": {
+    "src/index.mjs": "b0878cebfe810162f43940748c5ba323307f6198fe3f7b1dff34d4940297479c"
+  }
+}
